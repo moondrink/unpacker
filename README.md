@@ -1,7 +1,7 @@
 # Youpk
 又一款基于ART的主动调用的脱壳机
 
-
+将youpk移植到nexus 5x android-7.1.2_r28
 
 ## 原理
 
