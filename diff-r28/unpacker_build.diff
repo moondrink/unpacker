@@ -1,0 +1,12 @@
+diff --git a/core/tasks/check_boot_jars/package_whitelist.txt b/core/tasks/check_boot_jars/package_whitelist.txt
+index 3cb6e2800d..ded0f6dd89 100644
+--- a/core/tasks/check_boot_jars/package_whitelist.txt
++++ b/core/tasks/check_boot_jars/package_whitelist.txt
+@@ -186,6 +186,7 @@ org\.ccil\.cowan\.tagsoup\.jaxp
+ 
+ ###################################################
+ # framework.jar
++cn\.youlor
+ javax\.microedition\.khronos\.opengles
+ javax\.microedition\.khronos\.egl
+ 

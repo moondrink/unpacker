@@ -1,0 +1,10 @@
+diff --git a/vendorsetup.sh b/vendorsetup.sh
+index 9f4aa6f..5bf4db0 100755
+--- a/vendorsetup.sh
++++ b/vendorsetup.sh
+@@ -15,3 +15,5 @@
+ #
+ 
+ add_lunch_combo aosp_bullhead-userdebug
++add_lunch_combo aosp_bullhead-user
++add_lunch_combo aosp_bullhead-eng
